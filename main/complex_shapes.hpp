@@ -7,7 +7,6 @@
 #include "../vmlib/vec3.hpp"
 #include "../vmlib/mat44.hpp"
 #include "../vmlib/mat33.hpp"
-#include "pyramid.hpp"
 #include "cylinder.hpp"
 #include "cuboid.hpp"
 #include "triangular_prism.hpp"
