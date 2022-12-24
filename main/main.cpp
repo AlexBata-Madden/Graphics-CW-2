@@ -22,13 +22,11 @@
 
 #include "defaults.hpp"
 #include "simple_mesh.hpp"
-#include "cone.hpp"
 #include "cylinder.hpp"
 #include "cuboid.hpp"
 #include "camera.hpp"
 #include "../vmlib/mat33.hpp"
 #include <iostream>
-#include "pyramid.hpp"
 #include "complex_shapes.hpp"
 #include "triangular_prism.hpp"
 #include "loadobj.hpp"
